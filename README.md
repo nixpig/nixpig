@@ -14,12 +14,22 @@
 
 ### Tech I'm currently working with at work and on side projects
 
-`Arch` • `Ubuntu`
+#### Dev setup
+`Arch Linux` • `Ubuntu Linux` • `Neovim` • `Terminator` • `tmux` • `i3`
 
-`neovim` • `tmux` • `i3`
+#### Languages + runtimes
+`TypeScript`, `JavaScript`, `Node.js`
 
-`TypeScript`, `JavaScript`, `React`, `ReactNative`, `Node.js`, `MongoDB`, `Redis`, `Docker`, `Ansible` `gnu core-utls`
+#### Frameworks + libs
+`React`, `React Native`, `webpack`
 
+#### Databases 
+`MongoDB`, `Redis`, `Postgres`
+
+#### Tooling
+`Docker`, `Ansible`, `gnu coreutils`
+
+#### Cloud
 `Azure` • `Digital Ocean`
 
 <!---
