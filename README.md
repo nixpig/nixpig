@@ -11,9 +11,7 @@
 
 `Bash` • `Terminator` • `tmux` • `Neovim` • `i3` • `Polybar`
 
-Checkout my dotfiles here: [nixpig/dotfiles]()
-
-Checkout my playbook to build my dev system here: [nixpig/ansible-dev-build]()
+Checkout my [dotfiles]() and [playbook]() to build my dev systems. 
 
 ### Tech I'm currently working with at work and on side projects
 
