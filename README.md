@@ -13,9 +13,14 @@
 📫 You can reach me at `[redacted]`
 
 ### Tech I'm currently working with at work and on side projects
-`Arch` • `neovim` • `tmux` • `i3` • `polybar`
 
-`TypeScript`, `JavaScript`, `React`, `ReactNative`, `Node.js`, `MongoDB`, `Redis`, `Docker`, `Ansible` `gnu core-utls`. 
+`Arch` • `Ubuntu`
+
+`neovim` • `tmux` • `i3`
+
+`TypeScript`, `JavaScript`, `React`, `ReactNative`, `Node.js`, `MongoDB`, `Redis`, `Docker`, `Ansible` `gnu core-utls`
+
+`Azure` • `Digital Ocean`
 
 <!---
 nixpig/nixpig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
