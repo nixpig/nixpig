@@ -1,22 +1,23 @@
-👋 Hi, I’m @nixpig, but you can call me **pig**. 
-
-🧑‍💻 I'm a Senior Engineering Lead, currently leading a few teams migrating a monolith to microservices + micro-frontends. 
-
-💻 Interested in working more on developer tooling. 
+👋 Hi, I’m @nixpig. I'm a Senior Engineering Lead, currently working with a number of teams, migrating a monolith to microservices + micro-frontends. 
 
 🌱 In my free time, I'm diving deeper into databases and distributed systems design.
 
-🎬 Im considering streaming my coding sessions - idk... Twitch, YouTube, something else? Open to tips, tricks and suggestions!
-
-💞️ I’m not currently looking to collaborate, but if you wanna chat, I have some thoughts bouncing around. 
+🎬 Im considering streaming my coding sessions - idk... Twitch, YouTube, something else? Open to tips, tricks and suggestions.
 
 📫 You can reach me at `[redacted]`
 
-### Tech I'm currently working with at work and on side projects
-
+### 🐧 Dev set-up
 `Arch (personal)` • `Ubuntu (work)`
 
-`Neovim` • `Terminator` • `tmux` • `i3` • `coreutils` • `TypeScript`• `JavaScript` • `Node.js` • `MongoDB` • `Redis` • `Docker` • `Ansible` • `Azure`
+`Bash` • `Terminator` • `tmux` • `Neovim` • `i3` • `Polybar`
+
+Checkout my dotfiles here: [nixpig/dotfiles]()
+
+Checkout my playbook to build my dev system here: [nixpig/ansible-dev-build]()
+
+### Tech I'm currently working with at work and on side projects
+
+`TypeScript` • `JavaScript` • `Node.js` • `MongoDB` • `Redis` • `Docker` • `Ansible` • `Azure`
 
 <!---
 nixpig/nixpig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
