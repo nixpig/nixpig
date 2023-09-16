@@ -1,4 +1,4 @@
-👋 Hi, I’m @nixpig. I'm a Senior Engineering Lead, currently working with a number of teams, migrating a monolith to microservices + micro-frontends. 
+👋 Hi, I’m @nixpig. I'm a Senior Engineering Lead. 
 
 🌱 In my free time, I'm diving deeper into databases and distributed systems design.
 
@@ -7,13 +7,14 @@
 📫 You can reach me at `[redacted]`
 
 ### 🐧 Dev set-up
+
+Checkout my [dotfiles]() and [playbook]() to build my dev systems.
+
 `Arch (personal)` • `Ubuntu (work)`
 
 `Bash` • `Terminator` • `tmux` • `Neovim` • `i3` • `Polybar`
 
-Checkout my [dotfiles]() and [playbook]() to build my dev systems. 
-
-### Tech I'm currently working with at work and on side projects
+### Tech I'm currently using at work and on side projects
 
 `TypeScript` • `JavaScript` • `Node.js` • `MongoDB` • `Redis` • `Docker` • `Ansible` • `Azure`
 
