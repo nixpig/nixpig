@@ -8,7 +8,7 @@
 
 ### 🐧 Dev set-up
 
-Checkout my [dotfiles]() and [playbook]() to build my dev systems.
+Checkout my [dotfiles](https://github.com/nixpig/dotfiles) and [playbook](https://github.com/nixpig/playbook) to build my dev systems.
 
 `Arch (personal)` • `Ubuntu (work)`
 
