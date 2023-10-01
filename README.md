@@ -1,10 +1,8 @@
 👋 Hi, I’m @nixpig. I'm a Senior Engineering Lead. 
 
-🌱 In my free time, I'm diving deeper into databases and distributed systems design.
+🌱 In my free time, I'm learning Go, Rust, and diving deeper into databases and distributed systems design.
 
 🎬 Im considering streaming my coding sessions - idk... Twitch, YouTube, something else? Open to tips, tricks and suggestions.
-
-📫 You can reach me at `[redacted]`
 
 ### 🐧 Dev set-up
 
@@ -16,7 +14,7 @@ Checkout my [dotfiles](https://github.com/nixpig/dotfiles) and [playbook](https:
 
 ### Tech I'm currently using at work and on side projects
 
-`TypeScript` • `JavaScript` • `Node.js` • `MongoDB` • `Redis` • `Docker` • `Ansible` • `Azure`
+`TypeScript` • `Node.js` • `MongoDB` • `Redis` • `Docker` • `Ansible` • `Azure`
 
 <!---
 nixpig/nixpig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
