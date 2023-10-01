@@ -8,11 +8,9 @@
 
 Checkout my [dotfiles](https://github.com/nixpig/dotfiles) and [playbook](https://github.com/nixpig/playbook) to build my dev systems.
 
-`Arch (personal)` • `Ubuntu (work)`
+`Arch (personal)` • `Ubuntu (work)` • `Bash` • `Terminator` • `tmux` • `Neovim` • `i3` • `Polybar`
 
-`Bash` • `Terminator` • `tmux` • `Neovim` • `i3` • `Polybar`
-
-### Tech I'm currently using at work and on side projects
+### 👨‍💻 Tech I'm currently using at work and on side projects
 
 `TypeScript` • `Node.js` • `MongoDB` • `Redis` • `Docker` • `Ansible` • `Azure`
 
