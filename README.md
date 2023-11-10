@@ -1,6 +1,6 @@
 👋 Hi, I’m @nixpig. I'm a Senior Engineering Lead. I've focused on the front end for most of my career, but now exploring more of the stack. 
 
-🎓️ In my free time, I'm learning Go, dabbling in Rust, and diving deeper into microservices and distributed systems design. 
+🎓️ In my free time, I'm learning [Go](https://github.com/nixpig?tab=repositories&q=&type=&language=go&sort=), dabbling in [Rust](https://github.com/nixpig?tab=repositories&q=&type=&language=rust&sort=), and diving deeper into microservices and distributed systems design. 
 
 ---
 
