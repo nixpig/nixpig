@@ -1,6 +1,6 @@
 👋 Hi, I’m @nixpig. I'm a Senior Engineering Lead. I've focused on the front end for most of my career, but now exploring more of the stack. 
 
-🎓️ In my free time, I'm learning [Go](https://github.com/nixpig?tab=repositories&q=&type=&language=go&sort=), dabbling in [Rust](https://github.com/nixpig?tab=repositories&q=&type=&language=rust&sort=), and diving deeper into microservices and distributed systems design. 
+🎓️ In my free time, I'm learning [Go](https://github.com/nixpig?tab=repositories&q=&type=&language=go&sort=) and dabbling in [Rust](https://github.com/nixpig?tab=repositories&q=&type=&language=rust&sort=). 
 
 ---
 
@@ -10,7 +10,7 @@
 
 👨‍💻 I'm currently working with the following tech at work and on personal projects: 
 
-`TypeScript` • `Node.js` • `React` • `React Native` • `Go` • `MongoDB` • `Redis` • `PostgreSQL` • `Docker` • `Ansible` • `Vagrant` • `Azure`
+`TypeScript` • `Go` • `Rust` • `Node.js` • `React` • `React Native` • `MongoDB` • `Redis` • `PostgreSQL` • `Docker` • `Ansible` • `Azure`
 
 ---
 
