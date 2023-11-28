@@ -18,14 +18,14 @@ You can checkout my [dotfiles](https://github.com/nixpig/dotfiles) and [playbook
 
 | | Personal | Work A | Work B |
 | - | - | - | - |
-| OS | Arch Linux | Ubuntu Linux | macOS |
-| DE | xfce4 | Gnome | ~ |
-| Shell | Bash | Bash | Bash |
-| Terminal | Terminator | Terminator | iTerm2 |
-| Multiplexer | tmux | tmux | tmux |
-| Editor | Neovim | Neovim | Neovim |
-| WM | i3 | i3 | ~ |
-| Misc | Polybar | Polybar | ~ |
+| **OS** | Arch Linux | Ubuntu Linux | macOS |
+| **DE** | xfce4 | Gnome | ~ |
+| **Shell** | Bash | Bash | Bash |
+| **Terminal** | Terminator | Terminator | iTerm2 |
+| **Multiplexer** | tmux | tmux | tmux |
+| **Editor** | Neovim | Neovim | Neovim |
+| **WM** | i3 | i3 | ~ |
+| **Misc** | Polybar<br>Dunst | Polybar<br>Dunst | ~ |
 
 
 
