@@ -6,7 +6,7 @@ I've worked on frontend web for most of my career, but now exploring more of the
 
 I'm currently working with: 
 
-`TypeScript` • `Go` • `Rust` • `Node.js` • `React` • `React Native` • `MongoDB` • `Redis` • `PostgreSQL` • `Docker` • `Ansible` • `Azure`
+`TypeScript` • `Go` • `Rust` • `Node.js` • `React` • `React Native` • `Redis` • `PostgreSQL` • `Docker` • `Ansible` • `Azure`
 
 You can checkout my [dotfiles](https://github.com/nixpig/dotfiles) and [playbook](https://github.com/nixpig/playbook) to build my Arch Linux and macOS dev systems.
 
