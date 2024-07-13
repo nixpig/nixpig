@@ -2,13 +2,13 @@
 
 I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a Senior Technical Lead.
 
-My day job mostly consists of JS/TS and Java on Azure. For fun, I'm currently enjoying [learning Go](https://github.com/nixpig?tab=repositories&q=&type=public&language=go&sort=) and [dabbling in Rust](https://github.com/nixpig?tab=repositories&q=&type=public&language=rust&sort=). 
+My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently enjoying [learning Go](https://github.com/nixpig?tab=repositories&q=&type=public&language=go&sort=) and [dabbling in Rust](https://github.com/nixpig?tab=repositories&q=&type=public&language=rust&sort=). 
 
 #### 🗃️ My environment
 - [dotfiles](https://github.com/nixpig/dotfiles) - Neovim, Tmux, i3, Terminator, Bash, Starship, etc...
 - [playbook](https://github.com/nixpig/playbook) - Ansible playbook to set up Arch Linux dev machine.
 
-#### 👷 Check out what I'm currently working on
+#### 👷 My recent contributions
 
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Distributed database-per-user encrypted secrets management over SSH protocol. (today)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 month ago)
@@ -51,6 +51,10 @@ No blog posts...yet.
 #### 👯 Check out some of my recent followers
 
 I haven't got any followers yet. You could be the first!
+
+#### 📚️ My reading list
+- Current: [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/) (Bartlomiej Plotka)
+- Next: [Hypermedia Systems](https://hypermedia.systems/) (Carson Gross)
 
 #### 💬 Feedback
 
