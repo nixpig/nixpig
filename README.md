@@ -24,6 +24,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔭 Latest releases I've contributed to
 
+I haven't contributed to any releases yet.
 
 #### 🔨 My recent Pull Requests
 
@@ -35,11 +36,13 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 📜 My recent blog posts
 
+No blog posts...yet.
 
 #### 📓 Gists I wrote
 
+I haven't written any gists.
 
-#### ⭐ Recent Stars
+#### ⭐ Recent stars
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (1 month ago)
@@ -49,6 +52,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👯 Check out some of my recent followers
 
+I have not followers yet. You could be the first!
 
 #### 💬 Feedback
 
