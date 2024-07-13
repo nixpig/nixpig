@@ -2,6 +2,8 @@
 
 I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a Senior Technical Lead.
 
+My day job mostly consists of JS/TS and Java on Azure. For fun, I'm currently enjoying [learning Go](https://github.com/nixpig?tab=repositories&q=&type=public&language=go&sort=) and [dabbling in Rust](https://github.com/nixpig?tab=repositories&q=&type=public&language=rust&sort=). 
+
 #### 🗃️ My environment
 - [dotfiles](https://github.com/nixpig/dotfiles) - Neovim, Tmux, i3, Terminator, Bash, Starship, etc...
 - [playbook](https://github.com/nixpig/playbook) - Ansible playbook to set up Arch Linux dev machine.
