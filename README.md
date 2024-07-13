@@ -53,8 +53,8 @@ No blog posts...yet.
 I haven't got any followers yet. You could be the first!
 
 #### 📚️ My reading list
-- Current: [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/) (Bartlomiej Plotka)
-- Next: [Hypermedia Systems](https://hypermedia.systems/) (Carson Gross)
+- I'm currently reading [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/) (Bartlomiej Plotka)
+- Up next is [Hypermedia Systems](https://hypermedia.systems/) (Carson Gross)
 
 #### 💬 Feedback
 
