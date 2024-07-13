@@ -60,5 +60,4 @@ Say Hello, I don't bite!
 
 #### 📫 How to reach me
 
-- Twitter: https://twitter.com/nixpig
 - Website: https://nixpig.dev
