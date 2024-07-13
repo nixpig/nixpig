@@ -16,7 +16,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-{{ if len recentReleases 5 }}
+{{ if len (recentReleases 5) }}
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
@@ -35,7 +35,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 No blog posts...yet.
 {{- end}}
 
-{{ if len gists 5 }}
+{{ if len (gists 5) }}
 #### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
