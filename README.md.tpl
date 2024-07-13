@@ -19,6 +19,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- else}}
+I haven't contributed to any releases yet.
 {{- end}}
 
 #### 🔨 My recent Pull Requests
@@ -29,14 +31,18 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 #### 📜 My recent blog posts
 {{range rss "https://medium.com/feed/@nixpig" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- else}}
+No blog posts...yet.
 {{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- else}}
+I haven't written any gists.
 {{- end}}
 
-#### ⭐ Recent Stars
+#### ⭐ Recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
@@ -44,6 +50,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
+{{- else}}
+I have not followers yet. You could be the first!
 {{- end}}
 
 #### 💬 Feedback
