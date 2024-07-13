@@ -22,9 +22,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language presented in the books &#34;Writing An Interpreter In Go&#34; and &#34;Writing A Compiler In Go&#34;.
 - [nixpig/dunce](https://github.com/nixpig/dunce) - 🧠 [WIP] A super-simple content platform. Written in Go. Used to build my personal site. 
 
-#### 🔭 Latest releases I've contributed to
 
-I haven't contributed to any releases yet.
 
 #### 🔨 My recent Pull Requests
 
@@ -38,9 +36,7 @@ I haven't contributed to any releases yet.
 
 No blog posts...yet.
 
-#### 📓 Gists I wrote
 
-I haven't written any gists.
 
 #### ⭐ Recent stars
 
@@ -52,7 +48,7 @@ I haven't written any gists.
 
 #### 👯 Check out some of my recent followers
 
-I have not followers yet. You could be the first!
+I haven't got any followers yet. You could be the first!
 
 #### 💬 Feedback
 
