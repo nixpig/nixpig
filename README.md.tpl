@@ -26,11 +26,10 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-<!--
 #### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
+{{range rss "https://medium.com/feed/@nixpig" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}} -->
+{{- end}}
 
 #### 📓 Gists I wrote
 {{range gists 5}}
