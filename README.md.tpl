@@ -2,7 +2,11 @@
 
 I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a Senior Technical Lead.
 
-My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently enjoying [learning Go](https://github.com/nixpig?tab=repositories&q=&type=public&language=go&sort=) and [dabbling in Rust](https://github.com/nixpig?tab=repositories&q=&type=public&language=rust&sort=). 
+👨‍💻 My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently enjoying [learning Go](https://github.com/nixpig?tab=repositories&q=&type=public&language=go&sort=) and [dabbling in Rust](https://github.com/nixpig?tab=repositories&q=&type=public&language=rust&sort=). 
+
+🏡 I live in the countryside with my beautiful partner, cats and dog.
+
+--- 
 
 #### 🗃️ My environment
 - [dotfiles](https://github.com/nixpig/dotfiles) - Neovim, Tmux, i3, Terminator, Bash, Starship, etc...
