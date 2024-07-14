@@ -2,7 +2,11 @@
 
 I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a Senior Technical Lead.
 
-My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently enjoying [learning Go](https://github.com/nixpig?tab=repositories&q=&type=public&language=go&sort=) and [dabbling in Rust](https://github.com/nixpig?tab=repositories&q=&type=public&language=rust&sort=). 
+👨‍💻 My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently enjoying [learning Go](https://github.com/nixpig?tab=repositories&q=&type=public&language=go&sort=) and [dabbling in Rust](https://github.com/nixpig?tab=repositories&q=&type=public&language=rust&sort=). 
+
+🏡 I live in the countryside with my beautiful partner, cats and dog.
+
+--- 
 
 #### 🗃️ My environment
 - [dotfiles](https://github.com/nixpig/dotfiles) - Neovim, Tmux, i3, Terminator, Bash, Starship, etc...
@@ -10,7 +14,7 @@ My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently en
 
 #### 👷 My recent contributions
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Distributed database-per-user encrypted secrets management over SSH protocol. (today)
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (today)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 month ago)
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) -  (1 month ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 month ago)
@@ -18,7 +22,7 @@ My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently en
 
 #### 🌱 My latest projects
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Distributed database-per-user encrypted secrets management over SSH protocol.
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) - 
 - [nixpig/proglog](https://github.com/nixpig/proglog) - Working through the book &#34;Distributed Services with Go&#34;
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language presented in the books &#34;Writing An Interpreter In Go&#34; and &#34;Writing A Compiler In Go&#34;.
