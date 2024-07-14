@@ -10,7 +10,7 @@ My day job consists mostly of JS/TS and Java on Azure. For fun, I'm currently en
 
 #### 👷 My recent contributions
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Distributed database-per-user encrypted secrets management over SSH protocol. (today)
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Distributed database-per-user encrypted secrets management over SSH protocol. (1 day ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 month ago)
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) -  (1 month ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 month ago)
