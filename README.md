@@ -29,6 +29,9 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 - [nixpig/dunce](https://github.com/nixpig/dunce) - 🧠 [WIP] A super-simple content platform. Written in Go. Used to build my personal site. 
 
 
+#### 🔭 Latest releases I've contributed to
+
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.3](https://github.com/nixpig/syringe.sh/releases/tag/0.0.3), today) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 
 #### 🔨 My recent Pull Requests
 
@@ -46,11 +49,11 @@ No blog posts...yet.
 
 #### ⭐ Recent stars
 
+- [anthdm/superkit](https://github.com/anthdm/superkit) -  (today)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (1 month ago)
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (1 month ago)
 - [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 month ago)
-- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
