@@ -14,9 +14,9 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 My recent contributions
 
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (today)
-- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (today)
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (today)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 day ago)
+- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 day ago)
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (1 day ago)
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) -  (1 month ago)
 - [nixpig/dunce](https://github.com/nixpig/dunce) - 🧠 [WIP] A super-simple content platform. Written in Go. Used to build my personal site.  (1 month ago)
 
@@ -31,7 +31,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔭 Latest releases I've contributed to
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.4](https://github.com/nixpig/syringe.sh/releases/tag/0.0.4), today) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.4](https://github.com/nixpig/syringe.sh/releases/tag/0.0.4), 1 day ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 
 #### 🔨 My recent Pull Requests
 
@@ -49,11 +49,11 @@ No blog posts...yet.
 
 #### ⭐ Recent stars
 
-- [anthdm/superkit](https://github.com/anthdm/superkit) -  (1 day ago)
+- [anthdm/superkit](https://github.com/anthdm/superkit) -  (2 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 weeks ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (1 month ago)
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (1 month ago)
-- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (1 month ago)
+- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
