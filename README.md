@@ -31,7 +31,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔭 Latest releases I've contributed to
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.4](https://github.com/nixpig/syringe.sh/releases/tag/0.0.4), 3 days ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.7](https://github.com/nixpig/syringe.sh/releases/tag/0.0.7), today) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 
 #### 🔨 My recent Pull Requests
 
