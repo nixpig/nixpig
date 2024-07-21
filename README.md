@@ -49,11 +49,11 @@ No blog posts...yet.
 
 #### ⭐ Recent stars
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (6 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 weeks ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (1 month ago)
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (1 month ago)
-- [segmentio/golines](https://github.com/segmentio/golines) - A golang formatter that fixes long lines (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
