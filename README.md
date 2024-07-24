@@ -35,11 +35,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (today)
+- [feat: add WindowTitle setting](https://github.com/charmbracelet/vhs/pull/507) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
+- [feat: add WindowTitle setting](https://github.com/nixpig/vhs/pull/1) on [nixpig/vhs](https://github.com/nixpig/vhs) (today)
+- [feat: add WindowTitle setting](https://github.com/nixpig/tree-sitter-vhs/pull/1) on [nixpig/tree-sitter-vhs](https://github.com/nixpig/tree-sitter-vhs) (today)
 - [New api design](https://github.com/nixpig/dunce/pull/3) on [nixpig/dunce](https://github.com/nixpig/dunce) (2 months ago)
-- [chore: fix failing tests](https://github.com/nixpig/dunce/pull/2) on [nixpig/dunce](https://github.com/nixpig/dunce) (2 months ago)
-- [chore: new api design](https://github.com/nixpig/dunce/pull/1) on [nixpig/dunce](https://github.com/nixpig/dunce) (2 months ago)
-- [Feature/tls](https://github.com/nixpig/joubini/pull/5) on [nixpig/joubini](https://github.com/nixpig/joubini) (6 months ago)
-- [Feature/increase test coverage](https://github.com/nixpig/joubini/pull/4) on [nixpig/joubini](https://github.com/nixpig/joubini) (6 months ago)
 
 #### 📜 My recent blog posts
 
