@@ -16,8 +16,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (today)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (3 days ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 week ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) -  (2 months ago)
 
 #### 🌱 My latest projects
