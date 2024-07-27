@@ -49,11 +49,11 @@ No blog posts...yet.
 
 #### ⭐ Recent stars
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (6 days ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (1 month ago)
-- [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
