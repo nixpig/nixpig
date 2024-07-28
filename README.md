@@ -14,8 +14,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (today)
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (6 days ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (1 day ago)
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (1 week ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 week ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) -  (2 months ago)
@@ -31,14 +31,14 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔭 Latest releases I've contributed to
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.20](https://github.com/nixpig/syringe.sh/releases/tag/0.0.20), 6 days ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.20](https://github.com/nixpig/syringe.sh/releases/tag/0.0.20), 1 week ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (3 days ago)
-- [feat: add WindowTitle setting](https://github.com/charmbracelet/vhs/pull/507) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [feat: add WindowTitle setting](https://github.com/nixpig/vhs/pull/1) on [nixpig/vhs](https://github.com/nixpig/vhs) (3 days ago)
-- [feat: add WindowTitle setting](https://github.com/nixpig/tree-sitter-vhs/pull/1) on [nixpig/tree-sitter-vhs](https://github.com/nixpig/tree-sitter-vhs) (3 days ago)
+- [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (4 days ago)
+- [feat: add WindowTitle setting](https://github.com/charmbracelet/vhs/pull/507) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
+- [feat: add WindowTitle setting](https://github.com/nixpig/vhs/pull/1) on [nixpig/vhs](https://github.com/nixpig/vhs) (4 days ago)
+- [feat: add WindowTitle setting](https://github.com/nixpig/tree-sitter-vhs/pull/1) on [nixpig/tree-sitter-vhs](https://github.com/nixpig/tree-sitter-vhs) (4 days ago)
 - [New api design](https://github.com/nixpig/dunce/pull/3) on [nixpig/dunce](https://github.com/nixpig/dunce) (3 months ago)
 
 #### 📜 My recent blog posts
@@ -49,8 +49,8 @@ No blog posts...yet.
 
 #### ⭐ Recent stars
 
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (6 days ago)
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 weeks ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (1 month ago)
