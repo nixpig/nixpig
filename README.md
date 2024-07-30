@@ -14,11 +14,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (today)
-- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language presented in the books &#34;Writing An Interpreter In Go&#34; and &#34;Writing A Compiler In Go&#34;. (1 day ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (1 day ago)
+- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language presented in the books &#34;Writing An Interpreter In Go&#34; and &#34;Writing A Compiler In Go&#34;. (2 days ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (1 week ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
-- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 week ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 weeks ago)
+- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -35,10 +35,10 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (5 days ago)
-- [feat: add WindowTitle setting](https://github.com/charmbracelet/vhs/pull/507) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (5 days ago)
-- [feat: add WindowTitle setting](https://github.com/nixpig/vhs/pull/1) on [nixpig/vhs](https://github.com/nixpig/vhs) (5 days ago)
-- [feat: add WindowTitle setting](https://github.com/nixpig/tree-sitter-vhs/pull/1) on [nixpig/tree-sitter-vhs](https://github.com/nixpig/tree-sitter-vhs) (5 days ago)
+- [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (6 days ago)
+- [feat: add WindowTitle setting](https://github.com/charmbracelet/vhs/pull/507) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (6 days ago)
+- [feat: add WindowTitle setting](https://github.com/nixpig/vhs/pull/1) on [nixpig/vhs](https://github.com/nixpig/vhs) (6 days ago)
+- [feat: add WindowTitle setting](https://github.com/nixpig/tree-sitter-vhs/pull/1) on [nixpig/tree-sitter-vhs](https://github.com/nixpig/tree-sitter-vhs) (6 days ago)
 - [New api design](https://github.com/nixpig/dunce/pull/3) on [nixpig/dunce](https://github.com/nixpig/dunce) (3 months ago)
 
 #### 📜 My recent blog posts
@@ -49,7 +49,7 @@ No blog posts...yet.
 
 #### ⭐ Recent stars
 
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 days ago)
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (3 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
