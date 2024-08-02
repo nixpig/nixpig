@@ -6,6 +6,10 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 🏡 I live in the countryside with my beautiful partner, cats and dog.
 
+```bash
+ssh nixpig.dev # have a look-see
+```
+
 --- 
 
 #### 🗃️ My environment
