@@ -18,8 +18,8 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (1 day ago)
-- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (5 days ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (2 days ago)
+- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (6 days ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (1 week ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 weeks ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (2 weeks ago)
@@ -53,11 +53,11 @@ No blog posts...yet.
 
 #### ⭐ Recent stars
 
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (6 days ago)
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 week ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (2 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
-- [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (1 month ago)
+- [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
