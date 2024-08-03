@@ -64,7 +64,7 @@ No blog posts...yet.
 
 #### 👯 Check out some of my recent followers
 
-- [LilaLio](https://github.com/LilaLio)
+I haven't got any followers yet. You could be the first!
 
 #### 📚️ My reading list
 - I'm currently reading [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/) (Bartlomiej Plotka)
