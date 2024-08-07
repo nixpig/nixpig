@@ -18,19 +18,19 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
+- [nixpig/gowc](https://github.com/nixpig/gowc) - Building the ‘wc’ CLI tool in Go (today)
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (4 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (1 week ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (2 weeks ago)
-- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (3 weeks ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [nixpig/gowc](https://github.com/nixpig/gowc) - Building the ‘wc’ CLI tool in Go
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) - 
 - [nixpig/proglog](https://github.com/nixpig/proglog) - Working through the book &#34;Distributed Services with Go&#34;
-- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go. 
 
 
 #### 🔭 Latest releases I've contributed to
