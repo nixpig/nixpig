@@ -18,8 +18,8 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/gowc](https://github.com/nixpig/gowc) - Building the ‘wc’ CLI tool in Go (today)
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (4 days ago)
+- [nixpig/gowc](https://github.com/nixpig/gowc) - Building the ‘wc’ CLI tool in Go (1 day ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (5 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (1 week ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (2 weeks ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (3 weeks ago)
@@ -52,7 +52,7 @@ No blog posts...yet.
 
 #### 📓 Gists I wrote
 
-- [Arch Configure EFI Boot](https://gist.github.com/b62226f4e30d31371df283e93db7ce65) (4 days ago)
+- [Arch Configure EFI Boot](https://gist.github.com/b62226f4e30d31371df283e93db7ce65) (5 days ago)
 
 #### ⭐ Recent stars
 
