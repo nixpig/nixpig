@@ -18,16 +18,16 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) -  (today)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 days ago)
-- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - Building 100 apps in Go (2 days ago)
+- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (2 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (1 week ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (2 weeks ago)
 
 #### 🌱 My latest projects
 
-- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - Building 100 apps in Go
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 
+- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) - 
 - [nixpig/proglog](https://github.com/nixpig/proglog) - Working through the book &#34;Distributed Services with Go&#34;
