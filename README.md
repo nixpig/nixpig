@@ -19,8 +19,8 @@ ssh nixpig.dev # have a look-see
 #### 👷 My recent contributions
 
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 days ago)
 - [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (2 days ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (1 week ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (2 weeks ago)
 
@@ -39,11 +39,11 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [chore: merge down and verify latest changes](https://github.com/nixpig/nixpigdev/pull/2) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: overall refactoring](https://github.com/nixpig/nixpigdev/pull/1) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (2 weeks ago)
 - [feat: add WindowTitle setting](https://github.com/charmbracelet/vhs/pull/507) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 weeks ago)
 - [feat: add WindowTitle setting](https://github.com/nixpig/vhs/pull/1) on [nixpig/vhs](https://github.com/nixpig/vhs) (2 weeks ago)
-- [feat: add WindowTitle setting](https://github.com/nixpig/tree-sitter-vhs/pull/1) on [nixpig/tree-sitter-vhs](https://github.com/nixpig/tree-sitter-vhs) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
