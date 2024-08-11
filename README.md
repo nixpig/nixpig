@@ -39,11 +39,11 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [fix: set term and dimensions to pty](https://github.com/nixpig/nixpigdev/pull/6) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
+- [feat: add basic validation to form](https://github.com/nixpig/nixpigdev/pull/5) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [Retidy](https://github.com/nixpig/nixpigdev/pull/4) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: overhaul refactor](https://github.com/nixpig/nixpigdev/pull/3) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: merge down and verify latest changes](https://github.com/nixpig/nixpigdev/pull/2) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
-- [chore: overall refactoring](https://github.com/nixpig/nixpigdev/pull/1) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
-- [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
