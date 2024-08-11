@@ -39,11 +39,11 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [feat: load blog posts from rss feed](https://github.com/nixpig/nixpigdev/pull/8) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [fix: pass correct renderer](https://github.com/nixpig/nixpigdev/pull/7) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [fix: set term and dimensions to pty](https://github.com/nixpig/nixpigdev/pull/6) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [feat: add basic validation to form](https://github.com/nixpig/nixpigdev/pull/5) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [Retidy](https://github.com/nixpig/nixpigdev/pull/4) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
-- [chore: overhaul refactor](https://github.com/nixpig/nixpigdev/pull/3) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 
 #### 📜 My recent blog posts
 
