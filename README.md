@@ -18,11 +18,11 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
-- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (2 days ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 days ago)
-- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (1 week ago)
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (2 weeks ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (1 day ago)
+- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (3 days ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (3 days ago)
+- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (2 weeks ago)
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -35,12 +35,12 @@ ssh nixpig.dev # have a look-see
 
 #### 🔭 Latest releases I've contributed to
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.20](https://github.com/nixpig/syringe.sh/releases/tag/0.0.20), 2 weeks ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.20](https://github.com/nixpig/syringe.sh/releases/tag/0.0.20), 3 weeks ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: merge down and verify latest changes](https://github.com/nixpig/nixpigdev/pull/2) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
-- [chore: overall refactoring](https://github.com/nixpig/nixpigdev/pull/1) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
+- [chore: merge down and verify latest changes](https://github.com/nixpig/nixpigdev/pull/2) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
+- [chore: overall refactoring](https://github.com/nixpig/nixpigdev/pull/1) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [feat: add WindowTitle setting](https://github.com/charmbracelet/tree-sitter-vhs/pull/14) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (2 weeks ago)
 - [feat: add WindowTitle setting](https://github.com/charmbracelet/vhs/pull/507) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 weeks ago)
 - [feat: add WindowTitle setting](https://github.com/nixpig/vhs/pull/1) on [nixpig/vhs](https://github.com/nixpig/vhs) (2 weeks ago)
@@ -57,7 +57,7 @@ No blog posts...yet.
 #### ⭐ Recent stars
 
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 weeks ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 weeks ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (3 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (2 months ago)
