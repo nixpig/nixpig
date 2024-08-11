@@ -39,15 +39,15 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [fix: pass correct renderer](https://github.com/nixpig/nixpigdev/pull/7) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [fix: set term and dimensions to pty](https://github.com/nixpig/nixpigdev/pull/6) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [feat: add basic validation to form](https://github.com/nixpig/nixpigdev/pull/5) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [Retidy](https://github.com/nixpig/nixpigdev/pull/4) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: overhaul refactor](https://github.com/nixpig/nixpigdev/pull/3) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
-- [chore: merge down and verify latest changes](https://github.com/nixpig/nixpigdev/pull/2) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 
 #### 📜 My recent blog posts
 
-No blog posts...yet.
+- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (today)
 
 
 #### 📓 Gists I wrote
