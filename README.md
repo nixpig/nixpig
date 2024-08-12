@@ -18,7 +18,7 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (1 day ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
 - [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (4 days ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (4 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (2 weeks ago)
@@ -39,11 +39,11 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [chore: install ca-certificates in image](https://github.com/nixpig/nixpigdev/pull/10) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
+- [chore: add nil check](https://github.com/nixpig/nixpigdev/pull/9) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [feat: load blog posts from rss feed](https://github.com/nixpig/nixpigdev/pull/8) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [fix: pass correct renderer](https://github.com/nixpig/nixpigdev/pull/7) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [fix: set term and dimensions to pty](https://github.com/nixpig/nixpigdev/pull/6) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
-- [feat: add basic validation to form](https://github.com/nixpig/nixpigdev/pull/5) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
-- [Retidy](https://github.com/nixpig/nixpigdev/pull/4) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 
 #### 📜 My recent blog posts
 
