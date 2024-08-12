@@ -18,9 +18,9 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
-- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (3 days ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (3 days ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (1 day ago)
+- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (4 days ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (4 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (2 weeks ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (3 weeks ago)
 
@@ -39,15 +39,15 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
-- [feat: load blog posts from rss feed](https://github.com/nixpig/nixpigdev/pull/8) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
-- [fix: pass correct renderer](https://github.com/nixpig/nixpigdev/pull/7) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
-- [fix: set term and dimensions to pty](https://github.com/nixpig/nixpigdev/pull/6) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
-- [feat: add basic validation to form](https://github.com/nixpig/nixpigdev/pull/5) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
-- [Retidy](https://github.com/nixpig/nixpigdev/pull/4) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
+- [feat: load blog posts from rss feed](https://github.com/nixpig/nixpigdev/pull/8) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
+- [fix: pass correct renderer](https://github.com/nixpig/nixpigdev/pull/7) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
+- [fix: set term and dimensions to pty](https://github.com/nixpig/nixpigdev/pull/6) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
+- [feat: add basic validation to form](https://github.com/nixpig/nixpigdev/pull/5) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
+- [Retidy](https://github.com/nixpig/nixpigdev/pull/4) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 
 #### 📜 My recent blog posts
 
-- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (today)
+- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (1 day ago)
 
 
 #### 📓 Gists I wrote
@@ -58,7 +58,7 @@ ssh nixpig.dev # have a look-see
 
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
-- [anthdm/superkit](https://github.com/anthdm/superkit) -  (3 weeks ago)
+- [anthdm/superkit](https://github.com/anthdm/superkit) -  (4 weeks ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 - [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (2 months ago)
 
