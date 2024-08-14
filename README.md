@@ -18,9 +18,9 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (2 days ago)
-- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (6 days ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (6 days ago)
+- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (6 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (2 weeks ago)
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (3 weeks ago)
 
@@ -39,11 +39,11 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [continue tidying up](https://github.com/nixpig/nixpigdev/pull/11) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: install ca-certificates in image](https://github.com/nixpig/nixpigdev/pull/10) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
 - [chore: add nil check](https://github.com/nixpig/nixpigdev/pull/9) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
 - [feat: load blog posts from rss feed](https://github.com/nixpig/nixpigdev/pull/8) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
 - [fix: pass correct renderer](https://github.com/nixpig/nixpigdev/pull/7) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
-- [fix: set term and dimensions to pty](https://github.com/nixpig/nixpigdev/pull/6) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -56,11 +56,11 @@ ssh nixpig.dev # have a look-see
 
 #### ⭐ Recent stars
 
+- [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy. (today)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (1 month ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
-- [kvtools/valkeyrie](https://github.com/kvtools/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
