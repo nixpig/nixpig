@@ -18,11 +18,11 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (2 days ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
+- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (today)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
 - [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (1 week ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (2 weeks ago)
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [chore: tidy up form nav and styling](https://github.com/nixpig/nixpigdev/pull/12) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [continue tidying up](https://github.com/nixpig/nixpigdev/pull/11) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
 - [chore: install ca-certificates in image](https://github.com/nixpig/nixpigdev/pull/10) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (4 days ago)
 - [chore: add nil check](https://github.com/nixpig/nixpigdev/pull/9) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (4 days ago)
 - [feat: load blog posts from rss feed](https://github.com/nixpig/nixpigdev/pull/8) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (5 days ago)
-- [fix: pass correct renderer](https://github.com/nixpig/nixpigdev/pull/7) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (5 days ago)
 
 #### 📜 My recent blog posts
 
