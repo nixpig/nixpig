@@ -18,8 +18,8 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
-- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (2 days ago)
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (2 days ago)
+- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (3 days ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (3 days ago)
 - [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (1 week ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (3 weeks ago)
@@ -39,10 +39,10 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
-- [chore: tidy up form nav and styling](https://github.com/nixpig/nixpigdev/pull/12) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
-- [continue tidying up](https://github.com/nixpig/nixpigdev/pull/11) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (4 days ago)
-- [chore: install ca-certificates in image](https://github.com/nixpig/nixpigdev/pull/10) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (6 days ago)
-- [chore: add nil check](https://github.com/nixpig/nixpigdev/pull/9) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (6 days ago)
+- [chore: tidy up form nav and styling](https://github.com/nixpig/nixpigdev/pull/12) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
+- [continue tidying up](https://github.com/nixpig/nixpigdev/pull/11) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (5 days ago)
+- [chore: install ca-certificates in image](https://github.com/nixpig/nixpigdev/pull/10) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
+- [chore: add nil check](https://github.com/nixpig/nixpigdev/pull/9) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
 - [feat: load blog posts from rss feed](https://github.com/nixpig/nixpigdev/pull/8) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
 
 #### 📜 My recent blog posts
@@ -56,7 +56,7 @@ ssh nixpig.dev # have a look-see
 
 #### ⭐ Recent stars
 
-- [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy. (4 days ago)
+- [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy. (5 days ago)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (3 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 weeks ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (1 month ago)
