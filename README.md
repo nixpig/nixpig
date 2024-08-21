@@ -18,9 +18,9 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (today)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 day ago)
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (2 days ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
 - [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (1 week ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (3 weeks ago)
 
