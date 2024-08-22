@@ -35,11 +35,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [feat: add simple email sending](https://github.com/nixpig/nixpigdev/pull/16) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: update go version for fly](https://github.com/nixpig/nixpigdev/pull/15) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [ongoing work](https://github.com/nixpig/nixpigdev/pull/14) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [chore: change message from textinput to textarea](https://github.com/nixpig/nixpigdev/pull/13) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
-- [chore: tidy up form nav and styling](https://github.com/nixpig/nixpigdev/pull/12) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (6 days ago)
 
 #### 📜 My recent blog posts
 
