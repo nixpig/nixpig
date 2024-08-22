@@ -18,8 +18,8 @@ ssh nixpig.dev # have a look-see
 
 #### 👷 My recent contributions
 
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 day ago)
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (1 day ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (2 days ago)
 - [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (2 weeks ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (3 weeks ago)
@@ -39,11 +39,11 @@ ssh nixpig.dev # have a look-see
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add simple email sending](https://github.com/nixpig/nixpigdev/pull/16) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: update go version for fly](https://github.com/nixpig/nixpigdev/pull/15) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [ongoing work](https://github.com/nixpig/nixpigdev/pull/14) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [chore: change message from textinput to textarea](https://github.com/nixpig/nixpigdev/pull/13) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
 - [chore: tidy up form nav and styling](https://github.com/nixpig/nixpigdev/pull/12) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (6 days ago)
-- [continue tidying up](https://github.com/nixpig/nixpigdev/pull/11) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
 
 #### 📜 My recent blog posts
 
