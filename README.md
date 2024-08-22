@@ -17,16 +17,16 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 day ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (2 days ago)
-- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go (2 weeks ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (3 weeks ago)
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (1 month ago)
 
 #### 🌱 My latest projects
 
-- [nixpig/100-apps-in-go](https://github.com/nixpig/100-apps-in-go) - 💯 Building 100 apps in Go
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 - [nixpig/nixpig.github.io](https://github.com/nixpig/nixpig.github.io) - 
 - [nixpig/proglog](https://github.com/nixpig/proglog) - Working through the book &#34;Distributed Services with Go&#34;
+- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go. 
 
 
 #### 🔭 Latest releases I've contributed to
@@ -35,11 +35,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: deploy a simple web server](https://github.com/nixpig/nixpigdev/pull/18) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [feat: add simple email sending](https://github.com/nixpig/nixpigdev/pull/16) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: update go version for fly](https://github.com/nixpig/nixpigdev/pull/15) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [ongoing work](https://github.com/nixpig/nixpigdev/pull/14) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
-- [chore: change message from textinput to textarea](https://github.com/nixpig/nixpigdev/pull/13) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
 
 #### 📜 My recent blog posts
 
