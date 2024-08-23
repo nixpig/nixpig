@@ -14,11 +14,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 My recent contributions
 
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (today)
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (1 day ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 days ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (3 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (3 weeks ago)
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH. (1 month ago)
 
 #### 🌱 My latest projects
 
