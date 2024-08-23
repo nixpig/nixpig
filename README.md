@@ -35,11 +35,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: fix broken tests](https://github.com/charmbracelet/tree-sitter-vhs/pull/15) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (today)
 - [chore: deploy a simple web server](https://github.com/nixpig/nixpigdev/pull/18) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [feat: add simple email sending](https://github.com/nixpig/nixpigdev/pull/16) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 day ago)
 - [chore: update go version for fly](https://github.com/nixpig/nixpigdev/pull/15) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
-- [ongoing work](https://github.com/nixpig/nixpigdev/pull/14) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
 
 #### 📜 My recent blog posts
 
