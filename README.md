@@ -14,8 +14,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 My recent contributions
 
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (today)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (1 day ago)
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (2 days ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (3 days ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (4 days ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (3 weeks ago)
@@ -35,11 +35,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔨 My recent Pull Requests
 
+- [restructure](https://github.com/nixpig/nixpigdev/pull/19) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (today)
 - [chore: fix broken tests](https://github.com/charmbracelet/tree-sitter-vhs/pull/15) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (1 day ago)
 - [chore: deploy a simple web server](https://github.com/nixpig/nixpigdev/pull/18) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
 - [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
 - [feat: add simple email sending](https://github.com/nixpig/nixpigdev/pull/16) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (2 days ago)
-- [chore: update go version for fly](https://github.com/nixpig/nixpigdev/pull/15) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -48,6 +48,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 📓 Gists I wrote
 
+- [Simple SSH client in Go](https://gist.github.com/477864ecc1bf2a374be168a9d2318ac4) (today)
 - [Arch Configure EFI Boot](https://gist.github.com/b62226f4e30d31371df283e93db7ce65) (3 weeks ago)
 
 #### ⭐ Recent stars
