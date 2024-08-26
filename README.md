@@ -53,11 +53,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### ⭐ Recent stars
 
+- [teddyking/ns-process](https://github.com/teddyking/ns-process) - Code to accompany the &#34;Namespaces in Go&#34; series of articles. (today)
 - [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy. (1 week ago)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 month ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 month ago)
 - [anthdm/superkit](https://github.com/anthdm/superkit) -  (1 month ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
