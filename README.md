@@ -53,11 +53,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### ⭐ Recent stars
 
+- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (today)
 - [teddyking/ns-process](https://github.com/teddyking/ns-process) - Code to accompany the &#34;Namespaces in Go&#34; series of articles. (4 days ago)
 - [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy. (2 weeks ago)
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool (1 month ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 month ago)
-- [anthdm/superkit](https://github.com/anthdm/superkit) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
