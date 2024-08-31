@@ -14,7 +14,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 My recent contributions
 
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (6 days ago)
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (1 week ago)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (1 week ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 week ago)
@@ -35,8 +35,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 🔨 My recent Pull Requests
 
-- [Work](https://github.com/nixpig/nixpigdev/pull/20) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (6 days ago)
-- [restructure](https://github.com/nixpig/nixpigdev/pull/19) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (6 days ago)
+- [Work](https://github.com/nixpig/nixpigdev/pull/20) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
+- [restructure](https://github.com/nixpig/nixpigdev/pull/19) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
 - [chore: fix broken tests](https://github.com/charmbracelet/tree-sitter-vhs/pull/15) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (1 week ago)
 - [chore: deploy a simple web server](https://github.com/nixpig/nixpigdev/pull/18) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
 - [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (1 week ago)
@@ -48,15 +48,15 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 📓 Gists I wrote
 
-- [Simple SSH client in Go](https://gist.github.com/477864ecc1bf2a374be168a9d2318ac4) (6 days ago)
-- [Arch Configure EFI Boot](https://gist.github.com/b62226f4e30d31371df283e93db7ce65) (3 weeks ago)
+- [Simple SSH client in Go](https://gist.github.com/477864ecc1bf2a374be168a9d2318ac4) (1 week ago)
+- [Arch Configure EFI Boot](https://gist.github.com/b62226f4e30d31371df283e93db7ce65) (4 weeks ago)
 
 #### ⭐ Recent stars
 
-- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (today)
-- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (today)
-- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (today)
-- [teddyking/ns-process](https://github.com/teddyking/ns-process) - Code to accompany the &#34;Namespaces in Go&#34; series of articles. (4 days ago)
+- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (1 day ago)
+- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (1 day ago)
+- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (1 day ago)
+- [teddyking/ns-process](https://github.com/teddyking/ns-process) - Code to accompany the &#34;Namespaces in Go&#34; series of articles. (5 days ago)
 - [VSWSL/Arch-WSL](https://github.com/VSWSL/Arch-WSL) - This is an unofficial Arch WSL based on the rootfs of arch docker images with a few packages installed to make things easy. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
