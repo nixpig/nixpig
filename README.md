@@ -43,7 +43,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 📜 My recent blog posts
 
-- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (2 weeks ago)
+- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (3 weeks ago)
 
 
 #### 📓 Gists I wrote
@@ -53,11 +53,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### ⭐ Recent stars
 
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (today)
-- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (today)
-- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (1 day ago)
-- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (1 day ago)
-- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (1 day ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 day ago)
+- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (1 day ago)
+- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (2 days ago)
+- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (2 days ago)
+- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (2 days ago)
 
 #### 👯 Check out some of my recent followers
 
