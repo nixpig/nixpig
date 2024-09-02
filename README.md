@@ -49,15 +49,15 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 #### 📓 Gists I wrote
 
 - [Simple SSH client in Go](https://gist.github.com/477864ecc1bf2a374be168a9d2318ac4) (1 week ago)
-- [Arch Configure EFI Boot](https://gist.github.com/b62226f4e30d31371df283e93db7ce65) (4 weeks ago)
+- [Arch Configure EFI Boot](https://gist.github.com/b62226f4e30d31371df283e93db7ce65) (1 month ago)
 
 #### ⭐ Recent stars
 
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 day ago)
-- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (1 day ago)
-- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (2 days ago)
-- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (2 days ago)
-- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (2 days ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (2 days ago)
+- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (2 days ago)
+- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (3 days ago)
+- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (3 days ago)
+- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (3 days ago)
 
 #### 👯 Check out some of my recent followers
 
