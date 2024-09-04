@@ -16,7 +16,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (1 week ago)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (1 week ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 week ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 weeks ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (2 weeks ago)
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (1 month ago)
 
@@ -53,11 +53,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### ⭐ Recent stars
 
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (3 days ago)
-- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (3 days ago)
-- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (4 days ago)
-- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (4 days ago)
-- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (4 days ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (4 days ago)
+- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (4 days ago)
+- [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (5 days ago)
+- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (5 days ago)
+- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
