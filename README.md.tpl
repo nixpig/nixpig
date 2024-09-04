@@ -12,14 +12,14 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 - [dotfiles](https://github.com/nixpig/dotfiles) - Neovim, Tmux, i3, Terminator, Bash, Starship, etc...
 - [playbook](https://github.com/nixpig/playbook) - Ansible playbook to set up Arch Linux dev machine.
 
-#### 👷 My recent contributions
+#### 👷 Latest contibutions I've made
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+#### 🔨 Latest pull requests I've opened
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 {{ if len (recentReleases 5) }}
@@ -29,12 +29,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 {{- end}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 📜 My recent blog posts
+#### 📜 Latest blog posts I've published
 {{range rss "https://medium.com/feed/@nixpig" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- else}}
@@ -42,18 +37,18 @@ No blog posts...yet.
 {{- end}}
 
 {{ if len (gists 5) }}
-#### 📓 Gists I wrote
+#### 📓 Latests Gists I've written
 {{range gists 5}}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 {{- end}}
 
-#### ⭐ Recent stars
+#### ⭐ Latest repos I've starred
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
-#### 👯 Check out some of my recent followers
+#### 👯 Check out my latest followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- else}}
@@ -64,10 +59,7 @@ I haven't got any followers yet. You could be the first!
 - I'm currently reading [Efficient Go](https://www.oreilly.com/library/view/efficient-go/9781098105709/) (Bartlomiej Plotka)
 - Up next is [Hypermedia Systems](https://hypermedia.systems/) (Carson Gross)
 
-#### 💬 Feedback
-
-Say Hello, I don't bite!
-
 #### 📫 How to reach me
-
 - Website: https://nixpig.dev
+- Email: hi [at] [⬆️ the domain above]
+
