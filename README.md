@@ -45,11 +45,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### ⭐ Latest repos I've starred
 
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command. (today)
+- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform. (today)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 week ago)
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (1 week ago)
 - [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (1 week ago)
-- [teddyking/netsetgo](https://github.com/teddyking/netsetgo) - A small binary to help setup network namespaces for containers. (1 week ago)
-- [shuveb/containers-the-hard-way](https://github.com/shuveb/containers-the-hard-way) - Learning about containers and how they work by creating them the hard way (1 week ago)
 
 #### 👯 Check out my latest followers
 
