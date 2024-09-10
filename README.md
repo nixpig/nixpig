@@ -14,11 +14,11 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 Latest contibutions I've made
 
-- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (4 days ago)
+- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (5 days ago)
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (2 weeks ago)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (2 weeks ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (2 weeks ago)
-- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (2 weeks ago)
+- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (3 weeks ago)
 
 #### 🔨 Latest pull requests I've opened
 
@@ -35,7 +35,7 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 📜 Latest blog posts I've published
 
-- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (4 weeks ago)
+- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (1 month ago)
 
 
 #### 📓 Latests Gists I've written
@@ -45,8 +45,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### ⭐ Latest repos I've starred
 
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command. (today)
-- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform. (today)
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command. (1 day ago)
+- [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform. (1 day ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (1 week ago)
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (1 week ago)
 - [penumbra23/pura](https://github.com/penumbra23/pura) - Easy to use, extendable, OCI-compliant container runtime written in pure Rust (1 week ago)
