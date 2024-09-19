@@ -14,24 +14,24 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### 👷 Latest contibutions I've made
 
-- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (1 week ago)
+- [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (2 weeks ago)
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (3 weeks ago)
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (3 weeks ago)
 - [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (4 weeks ago)
-- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (4 weeks ago)
+- [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 month ago)
 
 #### 🔨 Latest pull requests I've opened
 
 - [Work](https://github.com/nixpig/nixpigdev/pull/20) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 weeks ago)
 - [restructure](https://github.com/nixpig/nixpigdev/pull/19) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 weeks ago)
 - [chore: fix broken tests](https://github.com/charmbracelet/tree-sitter-vhs/pull/15) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (3 weeks ago)
-- [chore: deploy a simple web server](https://github.com/nixpig/nixpigdev/pull/18) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 weeks ago)
-- [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 weeks ago)
+- [chore: deploy a simple web server](https://github.com/nixpig/nixpigdev/pull/18) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (4 weeks ago)
+- [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (4 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.20](https://github.com/nixpig/syringe.sh/releases/tag/0.0.20), 1 month ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) ([0.0.20](https://github.com/nixpig/syringe.sh/releases/tag/0.0.20), 2 months ago) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
 
 #### 📜 Latest blog posts I've published
 
