@@ -16,15 +16,15 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 - [nixpig/monkey-go](https://github.com/nixpig/monkey-go) - 🐒 An interpreter and compiler for the Monkey programming language, written in Go.  (2 weeks ago)
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev (3 weeks ago)
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (3 weeks ago)
-- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (4 weeks ago)
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 (4 weeks ago)
+- [nixpig/dotfiles](https://github.com/nixpig/dotfiles) - 🗃️ Dotfiles for my Arch Linux dev machine. Neovim, Tmux, i3, Terminator, Bash, Starship, etc... (1 month ago)
 - [nixpig/playbook](https://github.com/nixpig/playbook) - 📑 Ansible playbook to set up dev machine. (1 month ago)
 
 #### 🔨 Latest pull requests I've opened
 
 - [Work](https://github.com/nixpig/nixpigdev/pull/20) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 weeks ago)
 - [restructure](https://github.com/nixpig/nixpigdev/pull/19) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (3 weeks ago)
-- [chore: fix broken tests](https://github.com/charmbracelet/tree-sitter-vhs/pull/15) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (3 weeks ago)
+- [chore: fix broken tests](https://github.com/charmbracelet/tree-sitter-vhs/pull/15) on [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) (4 weeks ago)
 - [chore: deploy a simple web server](https://github.com/nixpig/nixpigdev/pull/18) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (4 weeks ago)
 - [chore: add a simple web server](https://github.com/nixpig/nixpigdev/pull/17) on [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) (4 weeks ago)
 
@@ -45,8 +45,8 @@ I’m @nixpig, a software engineer from 🇬🇧 the UK, currently working as a 
 
 #### ⭐ Latest repos I've starred
 
-- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers. (today)
-- [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software (today)
+- [iximiuz/awesome-container-tinkering](https://github.com/iximiuz/awesome-container-tinkering) - List of awesome tools to tinker with containers. (1 day ago)
+- [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software (1 day ago)
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command. (1 week ago)
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform. (1 week ago)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts. (2 weeks ago)
