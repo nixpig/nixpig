@@ -11,7 +11,7 @@ I’m a software engineer from 🇬🇧 the UK, currently working as a Senior Te
 
 ## 🏗️ I'm currently working on
 - **🍪 [brownie](https://github.com/nixpig/brownie)** - An experimental, OCI spec-compliant Linux container runtime, written in Go.
-- **🍓 rumbus** (public repo soon) - Building a home lab cloud platform on a Raspberry Pi cluster.
+- **🍓 [rumbus](https://github.com/nixpig/rumbus)** (public repo soon) - Building a home lab cloud platform on a Raspberry Pi cluster.
 
 --- 
 
