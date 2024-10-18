@@ -1,6 +1,6 @@
 ## 🐽 Hi, I'm nixpig
 
-I’m a software engineer from 🇬🇧 the UK, currently working as a Senior Technical Lead.
+I’m a software engineer from 🇬🇧 the UK.
 
 - **👨‍💻 For work** my day job consists mostly of JS/TS and Java on Azure.
 - **✨ In my free time** I'm mostly writing Go and occasionally dabbling in Rust. 
@@ -9,7 +9,7 @@ I’m a software engineer from 🇬🇧 the UK, currently working as a Senior Te
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@[↥ the domain above]
 
-## 🏗️ I'm currently working on
+I'm currently working on: 
 - **🍪 [brownie](https://github.com/nixpig/brownie)** - An experimental Linux container runtime, attempting to implement the OCI Runtime Spec. Written in Go.
 - **🍓 [rumbus](https://github.com/nixpig/rumbus)** (public repo soon) - Building a home lab cloud platform on a Raspberry Pi cluster.
 
