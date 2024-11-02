@@ -9,9 +9,8 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@[↥ the domain above]
 
-I'm currently working on: 
+**I'm currently working on:** 
 - **🍪 [brownie](https://github.com/nixpig/brownie)** - An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
-- **🍓 [rumbus](https://github.com/nixpig/rumbus)** (public repo soon) - Building a home lab cloud platform on a Raspberry Pi cluster.
 
 --- 
 
