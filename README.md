@@ -9,7 +9,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@[↥ the domain above]
 
-**I'm currently working on:** 
+**I'm currently building:** 
 - **🍪 [brownie](https://github.com/nixpig/brownie)** - An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
 
 --- 
