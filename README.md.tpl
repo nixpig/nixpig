@@ -11,12 +11,12 @@ I’m a software engineer from 🇬🇧 the UK.
 
 #### 👷 I'm currently working on
 
-- **🍪 [nixpig/brownie](https://github.com/nixpig/brownie)** - An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
+- 🍪 [nixpig/brownie](https://github.com/nixpig/brownie) - An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
 
 #### 🛠️ I recently contributed to
 
 {{range recentPullRequests 5}}
-- **[{{.Repo.Name}}]({{.Repo.URL}})** - {{.Repo.Description}} ({{.ID}} [{{humanize .CreatedAt}}]({{.URL}}))
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ([{{humanize .CreatedAt}}]({{.URL}}))
 {{- end}}
 --- 
 
