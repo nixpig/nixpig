@@ -2,16 +2,21 @@
 
 I’m a software engineer from 🇬🇧 the UK.
 
-- **👨‍💻 For work** my day job consists mostly of JS/TS and Java on Azure.
-- **✨ In my free time** I'm mostly writing Go and occasionally dabbling in Rust. 
 - **🏡 I live** in the countryside with my beautiful partner, cats and dog.
+- **✨ In my free time** I'm mostly writing Go and occasionally dabbling in Rust. 
+- **🌱 I want to learn** systems programming in Zig. 
 - **🗃️ I use** Arch Linux (btw) w/ i3, tmux + Neovim.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@[↥ the domain above]
 
-#### I'm currently building: 
+#### 👷 I'm currently working on
 
-- **🍪 [brownie](https://github.com/nixpig/brownie)** - An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
+- **🍪 [nixpig/brownie](https://github.com/nixpig/brownie)** - An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
 
+#### 🛠️ I recently contributed to
+
+{{range recentContributions 19}}
+- **[{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})**
+{{- end}}
 --- 
 
