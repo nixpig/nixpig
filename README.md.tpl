@@ -11,7 +11,9 @@ I’m a software engineer from 🇬🇧 the UK.
 
 #### 👷 I'm currently working on
 
-- 🍪 [nixpig/brownie](https://github.com/nixpig/brownie) - An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
+{{with repo "nixpig" "brownie"}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{end}}
 
 #### 🛠️ I recently contributed to
 
