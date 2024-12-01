@@ -26,5 +26,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 ([3 months ago](https://github.com/charmbracelet/tree-sitter-vhs/pull/15))
 
 &nbsp; ↪ [view contribution activity](#js-contribution-activity)
+
+
 --- 
 
