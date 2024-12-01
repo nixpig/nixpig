@@ -9,14 +9,14 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@[↥ the domain above]
 
-**🏗️ My projects** ([view all](https://github.com/nixpig?tab=repositories))
+#### 🏗️ Current projects
 
 - [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
-- [nixpig/joubini](https://github.com/nixpig/joubini) - 🐙 Super-simple to configure HTTP/S reverse proxy for local dev; supports HTTP/1.1, HTTP/2, SSL (+ web sockets coming soon).
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
-- [nixpig/corkscrew](https://github.com/nixpig/corkscrew) - 🌀 Batch executor for HTTP requests configured in a simple YAML schema.
 
-**🛠️ My contributions** ([view all](#js-contribution-activity))
+&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
+
+
+#### 🛠️ Recent contributions
 
 
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) - OCI Runtime Tools ([4 days ago](https://github.com/opencontainers/runtime-tools/pull/782))
@@ -24,5 +24,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev ([3 months ago](https://github.com/nixpig/nixpigdev/pull/20))
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev ([3 months ago](https://github.com/nixpig/nixpigdev/pull/19))
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - Syntax highlighting for VHS with tree-sitter 🌳 ([3 months ago](https://github.com/charmbracelet/tree-sitter-vhs/pull/15))
+
+&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 --- 
 
