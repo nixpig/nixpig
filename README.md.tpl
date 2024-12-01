@@ -12,6 +12,9 @@ I’m a software engineer from 🇬🇧 the UK.
 **🏗️ My projects** ([view all](https://github.com/nixpig?tab=repositories))
 
 - [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
+- [nixpig/joubini](https://github.com/nixpig/joubini) - 🐙 Super-simple to configure HTTP/S reverse proxy for local dev; supports HTTP/1.1, HTTP/2, SSL (+ web sockets coming soon).
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
+- [nixpig/corkscrew](https://github.com/nixpig/corkscrew) - 🌀 Batch executor for HTTP requests configured in a simple YAML schema.
 
 **🛠️ My contributions** ([view all](#js-contribution-activity))
 
