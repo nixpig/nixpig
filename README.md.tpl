@@ -9,11 +9,11 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@[↥ the domain above]
 
-#### 👷 I'm currently working on
+**🏗️ My projects** ([view all](https://github.com/nixpig?tab=repositories))
 
 - [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
 
-#### 🛠️ I recently contributed to
+**🛠️ My contributions** ([view all](#js-contribution-activity))
 
 {{range recentPullRequests 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ([{{humanize .CreatedAt}}]({{.URL}}))
