@@ -7,7 +7,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌱 I want to learn** systems programming in Zig. 
 - **🗃️ I use** Arch Linux (btw) w/ i3, tmux + Neovim.
 - **🌐 Find me** online at https://nixpig.dev
-- **📫 Contact me** at hi@[↥ the domain above]
+- **📫 Contact me** at hi@(↥ the domain above)
 
 #### 🏗️ Current projects
 
