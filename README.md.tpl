@@ -12,7 +12,7 @@ I’m a software engineer from 🇬🇧 the UK.
 
 - [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An experimental Linux container runtime, working towards implementing the OCI Runtime Spec. Written in Go.
 
-&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
+&nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 
 #### 🛠️ I've recently contributed...
@@ -21,7 +21,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ([{{humanize .CreatedAt}}]({{.URL}}))
 {{- end}}
 
-&nbsp; ↪ [view contribution activity](#js-contribution-activity)
+&nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 
 
 --- 
