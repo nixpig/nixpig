@@ -18,7 +18,7 @@ I’m a software engineer from 🇬🇧 the UK.
 #### 🛠️ I've recently contributed...
 
 {{range recentPullRequests 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ([{{humanize .CreatedAt}}]({{.URL}}))
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Title}} ([{{humanize .CreatedAt}}]({{.URL}}))
 {{- end}}
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
