@@ -26,6 +26,12 @@ I’m a software engineer from 🇬🇧 the UK.
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 
+#### 📝 I've recently written...
+
+
+- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (4 months ago)
+
+&nbsp;&nbsp; ↪ [view all writings](https://nixpig.com)
 
 --- 
 
