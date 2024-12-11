@@ -23,6 +23,13 @@ I’m a software engineer from 🇬🇧 the UK.
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 
+#### 📝 I've recently written...
+
+{{range rss "https://nixpig.com/feed" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+&nbsp;&nbsp; ↪ [view all writings](https://nixpig.com)
 
 --- 
 
