@@ -14,7 +14,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An (almost) OCI Runtime Spec-compliant Linux container runtime; written in Go.
 - [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev
 - [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
-- [nixpig/joubini](https://github.com/nixpig/joubini) - 🐙 Super-simple to configure HTTP/S reverse proxy for local dev; supports HTTP/1.1, HTTP/2, SSL (&#43; web sockets coming soon).
+- [nixpig/joubini](https://github.com/nixpig/joubini) - 🐙 Super-simple to configure HTTP/S reverse proxy for local dev; written in Rust, btw.
 - [nixpig/advent-of-code-2023](https://github.com/nixpig/advent-of-code-2023)
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
