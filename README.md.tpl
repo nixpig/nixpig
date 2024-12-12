@@ -8,16 +8,14 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@(↥ the domain above)
 
-#### 👨‍💻 I'm currently hacking on...
+#### 👨‍💻 Projects I'm currently hacking on
 
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
+- [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An (almost) OCI Runtime Spec-compliant Linux container runtime; written in Go.
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 
-#### 🛠️ I've recently contributed...
+#### 🛠️ Recent contributions I've made
 
 {{range recentPullRequests 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Title}} ([{{humanize .CreatedAt}}]({{.URL}}))
@@ -25,7 +23,7 @@ I’m a software engineer from 🇬🇧 the UK.
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 
-#### 📝 I've recently written...
+#### 📝 Latest blog posts I've written
 
 {{range rss "https://nixpig.com/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
