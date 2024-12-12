@@ -8,19 +8,14 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@(↥ the domain above)
 
-#### 👨‍💻 I'm currently hacking on...
-
+#### 👨‍💻 Projects I'm currently hacking on
 
 - [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An (almost) OCI Runtime Spec-compliant Linux container runtime; written in Go.
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - 💻️ ssh nixpig.dev
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable distributed database-per-user encrypted secrets management over SSH.
-- [nixpig/joubini](https://github.com/nixpig/joubini) - 🐙 Super-simple to configure HTTP/S reverse proxy for local dev; written in Rust, btw.
-- [nixpig/advent-of-code-2023](https://github.com/nixpig/advent-of-code-2023)
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 
-#### 🛠️ I've recently contributed...
+#### 🛠️ Recent contributions I've made
 
 
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) - Make hooks test validation work as expected ([2 weeks ago](https://github.com/opencontainers/runtime-tools/pull/782))
@@ -31,7 +26,7 @@ I’m a software engineer from 🇬🇧 the UK.
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 
-#### 📝 I've recently written...
+#### 📝 Latest blog posts I've written
 
 
 - [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (4 months ago)
