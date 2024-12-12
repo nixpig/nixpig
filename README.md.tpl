@@ -10,7 +10,9 @@ I’m a software engineer from 🇬🇧 the UK.
 
 #### 👨‍💻 I'm currently hacking on...
 
-- [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An (almost) OCI Runtime Spec-compliant Linux container runtime; written in Go.
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
