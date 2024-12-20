@@ -11,6 +11,7 @@ I’m a software engineer from 🇬🇧 the UK.
 #### 👨‍💻 Projects I'm currently hacking on
 
 - [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An OCI spec-compliant Linux container runtime; written in Go.
+- [nixpig/bakery](https://github.com/nixpig/bakery) - 🧁 A self-hostable container registry; working towards implementing the OCI Distribution spec.
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
