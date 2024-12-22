@@ -20,8 +20,8 @@ I’m a software engineer from 🇬🇧 the UK.
 
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) - Make hooks test validation work as expected ([3 weeks ago](https://github.com/opencontainers/runtime-tools/pull/782))
 - [nixpig/runtime-tools](https://github.com/nixpig/runtime-tools) - fix: make hooks test validation work as expected ([3 weeks ago](https://github.com/nixpig/runtime-tools/pull/1))
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - Work ([3 months ago](https://github.com/nixpig/nixpigdev/pull/20))
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - restructure ([3 months ago](https://github.com/nixpig/nixpigdev/pull/19))
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - Work ([4 months ago](https://github.com/nixpig/nixpigdev/pull/20))
+- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - restructure ([4 months ago](https://github.com/nixpig/nixpigdev/pull/19))
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - chore: fix broken tests ([4 months ago](https://github.com/charmbracelet/tree-sitter-vhs/pull/15))
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
