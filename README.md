@@ -21,9 +21,9 @@ I’m a software engineer from 🇬🇧 the UK.
 
 - [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) - Make hooks test validation work as expected ([1 month ago](https://github.com/opencontainers/runtime-tools/pull/782))
 - [nixpig/runtime-tools](https://github.com/nixpig/runtime-tools) - fix: make hooks test validation work as expected ([1 month ago](https://github.com/nixpig/runtime-tools/pull/1))
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - Work ([4 months ago](https://github.com/nixpig/nixpigdev/pull/20))
-- [nixpig/nixpigdev](https://github.com/nixpig/nixpigdev) - restructure ([4 months ago](https://github.com/nixpig/nixpigdev/pull/19))
 - [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - chore: fix broken tests ([4 months ago](https://github.com/charmbracelet/tree-sitter-vhs/pull/15))
+- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - feat: add WindowTitle setting ([5 months ago](https://github.com/charmbracelet/tree-sitter-vhs/pull/14))
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - feat: add WindowTitle setting ([5 months ago](https://github.com/charmbracelet/vhs/pull/507))
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 
