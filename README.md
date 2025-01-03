@@ -33,7 +33,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - [The OCI CLI interface (Building a container runtime from scratch - Part 1)](https://nixpig.dev/posts/container-runtime-oci-cli/) (5 days ago)
 - [About](https://nixpig.dev/pages/about/) (a long while ago)
 
-&nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev)
+&nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev/posts/)
 
 --- 
 
