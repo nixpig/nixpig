@@ -30,7 +30,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-&nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev)
+&nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev/posts/)
 
 --- 
 
