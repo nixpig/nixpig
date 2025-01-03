@@ -26,11 +26,11 @@ I’m a software engineer from 🇬🇧 the UK.
 
 #### 📝 Latest blog posts I've written
 
-{{range rss "https://nixpig.com/feed" 5}}
+{{range rss "https://nixpig.dev/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-&nbsp;&nbsp; ↪ [view all writings](https://nixpig.com)
+&nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev)
 
 --- 
 
