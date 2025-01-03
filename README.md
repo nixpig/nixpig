@@ -30,9 +30,10 @@ I’m a software engineer from 🇬🇧 the UK.
 #### 📝 Latest blog posts I've written
 
 
-- [Hello, world!](https://medium.com/@nixpig/hello-world-a1748c140e5a?source=rss-6adcb4b40ca1------2) (4 months ago)
+- [The OCI CLI interface (Building a container runtime from scratch - Part 1)](https://nixpig.dev/posts/container-runtime-oci-cli/) (5 days ago)
+- [About](https://nixpig.dev/pages/about/) (a long while ago)
 
-&nbsp;&nbsp; ↪ [view all writings](https://nixpig.com)
+&nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev)
 
 --- 
 
