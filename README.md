@@ -16,16 +16,6 @@ I’m a software engineer from 🇬🇧 the UK.
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
 
-#### 🛠️ Recent contributions I've made
-
-
-- [opencontainers/runtime-tools](https://github.com/opencontainers/runtime-tools) - Make hooks test validation work as expected ([1 month ago](https://github.com/opencontainers/runtime-tools/pull/782))
-- [nixpig/runtime-tools](https://github.com/nixpig/runtime-tools) - fix: make hooks test validation work as expected ([1 month ago](https://github.com/nixpig/runtime-tools/pull/1))
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - chore: fix broken tests ([4 months ago](https://github.com/charmbracelet/tree-sitter-vhs/pull/15))
-- [charmbracelet/tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs) - feat: add WindowTitle setting ([5 months ago](https://github.com/charmbracelet/tree-sitter-vhs/pull/14))
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - feat: add WindowTitle setting ([5 months ago](https://github.com/charmbracelet/vhs/pull/507))
-
-&nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
 
 #### 📝 Latest blog posts I've written
 
