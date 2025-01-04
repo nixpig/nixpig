@@ -20,7 +20,7 @@ I’m a software engineer from 🇬🇧 the UK.
 #### 📝 Latest blog posts I've written
 
 
-- [Building the OCI CLI interface](https://nixpig.dev/posts/container-runtime-oci-cli/) (6 days ago)
+- [Building the CLI interface for a container runtime in Go](https://nixpig.dev/posts/container-runtime-oci-cli/) (6 days ago)
 - [About](https://nixpig.dev/pages/about/) (a long while ago)
 
 &nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev/posts/)
