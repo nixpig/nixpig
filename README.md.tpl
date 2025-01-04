@@ -15,7 +15,7 @@ I’m a software engineer from 🇬🇧 the UK.
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
-
+<!--
 #### 🛠️ Recent contributions I've made
 
 {{range recentPullRequests 5}}
@@ -23,6 +23,7 @@ I’m a software engineer from 🇬🇧 the UK.
 {{- end}}
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
+-->
 
 #### 📝 Latest blog posts I've written
 
