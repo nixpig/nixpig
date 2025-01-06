@@ -20,6 +20,7 @@ I’m a software engineer from 🇬🇧 the UK.
 #### 📝 Latest blog posts I've written
 
 
+- [Reading a bundle config and saving a containers state](https://nixpig.dev/posts/bundle-config-container-state/) (2 days ago)
 - [Building the CLI interface for a container runtime in Go](https://nixpig.dev/posts/container-runtime-oci-cli/) (1 week ago)
 - [Building a container runtime from scratch in Go](https://nixpig.dev/posts/container-runtime-introduction/) (1 week ago)
 - [About](https://nixpig.dev/pages/about/) (a long while ago)
