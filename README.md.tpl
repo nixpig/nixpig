@@ -3,15 +3,15 @@
 I’m a software engineer from 🇬🇧 the UK.
 
 - **🏡 I live** in the countryside with my beautiful partner, cats and dog.
-- **✨ In my free time** I'm mostly writing Go and occasionally dabbling in Rust. 
+- **✨ In my free time** I'm mostly writing Go. 
 - **🗃️ I use** Arch Linux (btw) w/ i3, tmux + Neovim.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@(↥ the domain above)
 
 #### 👨‍💻 Projects I'm currently hacking on
 
-- [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An OCI Runtime spec-compliant **Linux container runtime**; written in Go.
-- [nixpig/scamp](https://github.com/nixpig/scamp) - 🍤 Experimental **container image tooling**, working towards OCI Image spec-compliance.
+- [nixpig/brownie](https://github.com/nixpig/brownie) - 🍪 An OCI spec-compliant **Linux container runtime**; written in Go.
+- [nixpig/scamp](https://github.com/nixpig/scamp) - 🍤 Experimental **container image tooling**, working towards OCI spec-compliance.
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
