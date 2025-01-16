@@ -20,7 +20,7 @@ I’m a software engineer from 🇬🇧 the UK.
 #### 📝 Latest blog posts I've written
 
 
-- [Loading a container, getting it&#39;s state, and deleting it](https://nixpig.dev/posts/loading-deleting-container-state/) (6 days ago)
+- [Loading a container, getting it&#39;s state, and deleting it](https://nixpig.dev/posts/loading-deleting-container-state/) (1 week ago)
 - [Reading a bundle config and saving a container&#39;s state](https://nixpig.dev/posts/bundle-config-container-state/) (1 week ago)
 - [Building the CLI interface for a container runtime in Go](https://nixpig.dev/posts/container-runtime-oci-cli/) (2 weeks ago)
 - [Building a container runtime from scratch in Go](https://nixpig.dev/posts/container-runtime-introduction/) (3 weeks ago)
