@@ -21,7 +21,7 @@ I’m a software engineer from 🇬🇧 the UK.
 
 
 - [Executing container runtime lifecycle hooks](https://nixpig.dev/posts/runtime-lifecycle-hooks/) (1 week ago)
-- [Initialising a container and starting the user process](https://nixpig.dev/posts/initialising-starting-container/) (1 week ago)
+- [Initialising a container and starting the user process](https://nixpig.dev/posts/initialising-starting-container/) (2 weeks ago)
 - [Loading a container, getting it&#39;s state, and deleting it](https://nixpig.dev/posts/loading-deleting-container-state/) (2 weeks ago)
 - [Reading a bundle config and saving a container&#39;s state](https://nixpig.dev/posts/bundle-config-container-state/) (3 weeks ago)
 - [Building the CLI interface for a container runtime in Go](https://nixpig.dev/posts/container-runtime-oci-cli/) (1 month ago)
