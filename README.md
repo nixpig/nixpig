@@ -20,11 +20,11 @@ I’m a software engineer from 🇬🇧 the UK.
 #### 📝 Latest blog posts I've written
 
 
+- [Setting up the OCI Runtime Spec test suite](https://nixpig.dev/posts/oci-runtime-test-suite/) (2 days ago)
 - [Sending signals to a running container using &#39;kill&#39;](https://nixpig.dev/posts/sending-signals-container/) (1 week ago)
 - [Executing container runtime lifecycle hooks](https://nixpig.dev/posts/runtime-lifecycle-hooks/) (2 weeks ago)
 - [Initialising a container and starting the user process](https://nixpig.dev/posts/initialising-starting-container/) (3 weeks ago)
 - [Loading a container, getting it&#39;s state, and deleting it](https://nixpig.dev/posts/loading-deleting-container-state/) (3 weeks ago)
-- [Reading a bundle config and saving a container&#39;s state](https://nixpig.dev/posts/bundle-config-container-state/) (1 month ago)
 
 &nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev/posts/)
 
