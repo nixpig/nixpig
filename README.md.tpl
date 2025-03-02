@@ -12,7 +12,7 @@ I’m a software engineer from 🇬🇧 the UK.
 
 - [nixpig/anocir](https://github.com/nixpig/anocir) - 🍪 An OCI spec-compliant Linux container runtime, written in Go.
 - [nixpig/scamp](https://github.com/nixpig/scamp) - 🍤 A basic toolset for performing common container image operations.
-- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Self-hostable encrypted secrets management over SSH. 
+- [nixpig/syringe.sh](https://github.com/nixpig/syringe.sh) - 🔐 Encrypted, passwordless, embeddable key-value store.. 
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
