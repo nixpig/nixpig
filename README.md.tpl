@@ -8,6 +8,7 @@ I’m a software engineer from 🇬🇧 the UK.
 - **🌐 Find me** online at https://nixpig.dev
 - **📫 Contact me** at hi@(↥ the domain above)
 
+<!--
 #### 👨‍💻 Projects I'm currently hacking on
 
 - [nixpig/anocir](https://github.com/nixpig/anocir) - 🍪 An OCI spec-compliant Linux container runtime, written in Go.
@@ -16,7 +17,7 @@ I’m a software engineer from 🇬🇧 the UK.
 
 &nbsp;&nbsp; ↪ [view all projects](https://github.com/nixpig?tab=repositories&q=&type=public&language=&sort=stargazers)
 
-<!--
+
 #### 🛠️ Recent contributions I've made
 
 {{range recentPullRequests 5}}
@@ -24,7 +25,7 @@ I’m a software engineer from 🇬🇧 the UK.
 {{- end}}
 
 &nbsp;&nbsp; ↪ [view contribution activity](#js-contribution-activity)
--->
+
 
 #### 📝 Latest blog posts I've written
 
@@ -33,6 +34,7 @@ I’m a software engineer from 🇬🇧 the UK.
 {{- end}}
 
 &nbsp;&nbsp; ↪ [view all writings](https://nixpig.dev/posts/)
+-->
 
 --- 
 
